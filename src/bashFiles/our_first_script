@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Author: Alptekin Sarılar
+# Date Created: 8/7/2022
+# Last Modified: 8/7/2022
+
+# Description
+# Prints "Thisi is my first script" to the terminal
+
+# Usage
+# our_first_script
+
 echo "This is my first script"
 
 exit 0
